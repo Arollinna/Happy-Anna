@@ -1,0 +1,35 @@
+body {
+   margin-top: 20px;
+   text-align: center; 
+   background-color: antiquewhite;
+}
+
+button {
+    margin: 30px 0;
+}
+
+div {
+    width: 42%;
+    margin: 5px auto;
+}
+
+#roos, #kms, #safety, #colour, #time {
+    background-color: aliceblue;
+    border: 0px;
+} 
+
+#submit {
+    margin: 0 42%;
+}
+
+#result {
+    border: 1px solid rgb(255, 101, 127);
+    height: 20px;
+    color: rgb(255, 101, 127);
+    text-align: center;
+}
+
+#photo {
+    width: 100%;
+}
+
